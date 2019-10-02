@@ -8,6 +8,7 @@ This is my example of the css display-table method, by <a href="http://www.massi
 
 <li> simple
 <li> dependency free
+<li> fully responsive
 <br>
   
 # credits
