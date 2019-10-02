@@ -9,6 +9,7 @@ This is my example of the css display-table method, by <a href="http://www.massi
 <li> simple
 <li> dependency free
 <li> fully responsive
+<li> free download from <a href="https://www.massimoceron.it/borealis.php" target="_blank">this</a> page (Click the button at the end of the description, and the download begin)
 <br>
   
 # credits
