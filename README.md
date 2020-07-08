@@ -26,3 +26,7 @@ This is my example of the css display-table method, by <a href="http://www.massi
                             	<p>Un articolo interessante su questa proprieta&grave; e&grave; a <a href="https://www.venetoformazione.it/blog/la-proprieta-display-e-il-valore-table-nei-siti-fullsize/" target="_blank">questo</a> link. </p><p>Continuando verso il basso seguono gli spazi per gli articoli del blog, sezione costruita sempre sfruttando la semantica html5 (tag article) e, per finire, il footer in fullsize (width 100% e con padding sopra e sotto pari a 70px, 0 a destra e a sinistra) con tutte le info che generalmente ci sono nei footer dei siti web, oltre alle icone Social alle quali viene applicata una bella animazione con rotazione all'hover col mouse (anche le icone Social sono prese da Font Awesome).</p>
                             	<p>Infine, e&grave; stata creata la freccia per il back-to-top (torna in alto), oltre all'ottimizzazione per i dispositivi tablet e mobile.</p>
                               <p>A <a href="http://ceron.altervista.org/corso-web-2.0/sensei-boreal/index.html">questo</a> link puoi vedere il risultato finale del progetto.</p>
+                              
+# image
+  
+![immagine-di-esempio](1.jpg) 
