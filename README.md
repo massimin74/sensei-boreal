@@ -1,6 +1,6 @@
 # sensei-boreal :sunrise:
 
-This is my example of the css display-table method, by <a href="http://www.massimoceron.it" target="_blank">massimoceron.it</a><br>
+This is my example of the css display-table method.<br>
 👉 <a href="http://ceron.altervista.org/corso-web-2.0/sensei-boreal/index.html" target="_blank">Here's</a> the finally result. 
 <br>
 
